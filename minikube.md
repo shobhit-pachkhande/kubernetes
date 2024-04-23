@@ -18,9 +18,6 @@ Architecture
     
 
 Release type
-
 Installer type
-
-  
 
 To install the latest minikube stable release on x86-64 Linux using Debian package:
