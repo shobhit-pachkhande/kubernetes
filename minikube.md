@@ -10,13 +10,7 @@ Internet connection
 Container or virtual machine manager, such as: Docker, QEMU, Hyperkit, Hyper-V, KVM, Parallels, Podman, VirtualBox, or VMware Fusion/Workstation
 
 Operating system
-
-  
-
 Architecture
-
-    
-
 Release type
 Installer type
 
