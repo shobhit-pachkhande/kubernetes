@@ -8,10 +8,4 @@ What you’ll need
 20GB of free disk space
 Internet connection
 Container or virtual machine manager, such as: Docker, QEMU, Hyperkit, Hyper-V, KVM, Parallels, Podman, VirtualBox, or VMware Fusion/Workstation
-
-Operating system
-Architecture
-Release type
-Installer type
-
-To install the latest minikube stable release on x86-64 Linux using Debian package:
+t minikube stable release on x86-64 Linux using Debian package:
